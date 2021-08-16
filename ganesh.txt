@@ -3,3 +3,6 @@ git keys
 to main
 
 stash command is used.
+
+for merging into test brach.
+it shold reflect in test branch
