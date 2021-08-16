@@ -1,3 +1,0 @@
-# AntProject-testing
-
-sample project
