@@ -3,7 +3,7 @@
 
 	<!-- Test coverage properties -->
 	<!-- <property name="cobertura.dir" value="C:\Tools\cobertura-2.1.1" /> -->
-	<property name="cobertura.dir" value="C:\Tools\cobertura-2.1.1" />
+	<property name="cobertura.dir" value="/var/lib/jenkins/workspace/Ant-Testing/cobertura-2.1.1" />
 	<property name="cobertura.maxmemory" value="512m" />
 	<property name="test.coverage" value="true" />
 	<property name="instrumented.dir" value="instrumented" />
